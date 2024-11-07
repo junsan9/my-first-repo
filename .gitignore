@@ -1,0 +1,11 @@
+#pythonキャッシュファイル
+__pycache__/
+*.pyc
+
+#仮想環境フォルダ
+venv/
+env/
+
+#OSやエディタ固有のファイル
+.DS_Store
+.vscode/
